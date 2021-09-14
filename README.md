@@ -17,7 +17,7 @@ sudo apt-get update && sudo apt-get install cmake libopenmpi-dev python3-dev zli
 ## Genetic Algorithm (GA)
 Follow the below github repository to install GA library
 ```bash
-https://github.com/chovanecm/python-genetic-algorithm
+https://github.com/adarshsehgal/python-genetic-algorithm
 ```
 
 ## Genetic Algorithm (GA) on DDPG + HER
